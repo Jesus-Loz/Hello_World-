@@ -13,6 +13,7 @@ Laboratorio para ver - branch/ commits/ pull-requests/ merge/ markdown
 
 ´´´
 codigo
+imaginemos que el codigo ahora esta diferente
 ´´´
 
 [Link a syntaxis de README](https://www.markdownguide.org/cheat-sheet/)
